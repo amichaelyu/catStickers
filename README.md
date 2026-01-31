@@ -9,8 +9,7 @@ software that talks to third parties.
 
 ## What Information Do We Collect?
 
-cardFlash does not collect any personal information. All data from 
-cardFlash is stored locally on device.
+Cat Stickers does not collect any personal information or data.
 
 ## Contact
 
